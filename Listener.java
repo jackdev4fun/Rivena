@@ -10,7 +10,7 @@ import net.dv8tion.jda.core.hooks.ListenerAdapter;
 public class Listener extends ListenerAdapter {
 
     private final CommandManager manager = new CommandManager();
-//    NAO ESQUECA DE REMOVER O TOKEN KK
+    
     @Override
     public void onReady(ReadyEvent event) {
         System.out.printf("Logado como %#$\n", event.getJDA().getSelfUser());
