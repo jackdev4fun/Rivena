@@ -1,7 +1,6 @@
 import net.dv8tion.jda.core.AccountType;
 import net.dv8tion.jda.core.JDABuilder;
 import net.dv8tion.jda.core.entities.Game;
-
 import javax.security.auth.login.LoginException;
 
 public class Rivena {
@@ -21,7 +20,6 @@ public class Rivena {
         } catch (LoginException | InterruptedException e) {
             e.printStackTrace();
         }
-
     }
 
     public static void main(String[] args) {
