@@ -8,4 +8,5 @@
 
 ## Comandos
 
-Para manipular a **Rivena** é necessário o prefixo "**#**". Para mais informações sobre os comandos "**help**"  
+ É necessário usar o prefixo "**#**" para manipular a **Rivena**  
+Para mais informações sobre os comandos "**help**"  
