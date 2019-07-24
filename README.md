@@ -12,7 +12,7 @@
 ## Comandos
 
  É necessário usar o prefixo "**?**" para manipular a **Rivena**  
-Para mais informações sobre os comandos "**?help**"  
+Para mais informações sobre os comandos digite "**?help**"  
 
 </a>
 </p>
